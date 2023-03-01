@@ -1,3 +1,11 @@
+<script>
+import MainLayout from '../../layouts/MainLayout.vue';
+
+export default {
+    layout: MainLayout
+}
+</script>
+
 <script setup>
 import { Link } from '@inertiajs/vue3'
 </script>
