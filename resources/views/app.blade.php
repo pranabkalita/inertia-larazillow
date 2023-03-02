@@ -12,7 +12,7 @@
 
         @inertiaHead
     </head>
-    <body >
+    <body class="bg-white">
         @inertia
     </body>
 </html>
