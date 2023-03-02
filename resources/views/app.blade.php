@@ -6,7 +6,10 @@
 
         <title>Larazillow</title>
 
+        @routes
+
         @vite('resources/js/app.js')
+
         @inertiaHead
     </head>
     <body >
